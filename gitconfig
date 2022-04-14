@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = admar.neto@zeedog.com
+	name = neto concon
